@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Full-stack+developer;Into+system+design+and+automation;I+build+tools+I+actually+use" alt="Typing intro" />
 </p>
+<p align="center">
+  <img src="IMG_3440.JPG" width="320" alt="Badly photoshopped me with Jensen Huang at the Golden Gate" /><br/>
+  <sub>Me and Jensen at the Golden Gate </sub>
+</p>
 
 I build full-stack web apps and small tools that automate things I'd otherwise do by hand. Lately that's meant a lot of Next.js, TypeScript and LLM APIs.
 
